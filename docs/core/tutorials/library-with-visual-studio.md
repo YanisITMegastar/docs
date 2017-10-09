@@ -44,7 +44,7 @@ Create your class library project:
 
    ![Visual Studio application window showing the default class library template code](./media/library-with-visual-studio/stringlibrary.png)
 
-1. Check to make sure that our library targets the correct version of the .NET Standard. Right-click on the library project in the **Solution Explorer** windows, then select **Properties**. The **Target Framework** text box shows that we're targeting .NET Standard 2.0.
+1. Check to make sure that our library targets the correct version of the .NET Standard. Right-click on the library project in the **Solution Explorer** window, then select **Properties**. The **Target Framework** text box shows that we're targeting .NET Standard 2.0.
 
    ![Project properties for the class library](./media/library-with-visual-studio/properties.png)
 
